@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @datoujinggzj
-- 👀 I’m interested in DA/DS/AI
-- 🌱 I’m currently learning deep learning
+- 👀 WhaleG is a preferred name. 
+- 🌱 Whale's repos distributed here. Feel free to follow.
 - 📫 How to reach me
   - Email:  👉 2328247224@qq.com
   - WeChat:  👉 datoujinggzj

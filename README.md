@@ -7,11 +7,11 @@
 - 🌱 Whale's repos distributed here. Feel free to follow.
 - 🏘️ I am in Shanghai, China.
 - 💡  Don't be a coder, be a solver!
-- 📚 Click [HERE] to check out my portfolio. 
+- 📚 Click [**HERE**] to check out my portfolio. 
 - 👩🏻‍💻 Thorough and meticulous **Data Scientist** passionate about helping businesses succeed.
 - 🌱 StudyWhale's repos distributed here. Feel free to follow.
-  - Gitee: https://gitee.com/gzjzg/collections
-  - Github: https://github.com/datoujinggzj
+  - **Gitee**: https://gitee.com/gzjzg/collections
+  - **Github**: https://github.com/datoujinggzj
 - 👨‍🏫 StudyWhale(鲸析) Data Science Crash Course 🆓: 👉 https://zg104.github.io/DSCrashCourse 🔥🔥🔥
 - 📫 How to reach me
   - **Email**:  👉 2328247224@qq.com

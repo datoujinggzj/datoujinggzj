@@ -23,11 +23,17 @@
 
 💖关注鲸析 给你惊喜💖
 
-![image](https://user-images.githubusercontent.com/48869455/164615108-e6287bbb-72ec-4fc4-90be-8dbb5596d9cc.png)
+```diff
+- 点击下方图片，查看🆓【鲸析课堂】的相关介绍！
+```
+<div align=center>
+<a href='https://youtu.be/Yb12pdEpTeI'> 
+<img src=https://user-images.githubusercontent.com/99417740/164861482-6281b88c-ef90-43d7-b6d2-4ab6dbc63221.jpg width='400' />
+</div>
 
 ## Find Me 联系鲸鲸💕
 
-<iframe width="965" height="419" src="https://www.youtube.com/embed/Yb12pdEpTeI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+![ds_repo_qr](https://user-images.githubusercontent.com/99417740/164861404-7dd9ce29-1950-42d4-9a2b-9fcadfead03f.png)
 
 <!---
 datoujinggzj/datoujinggzj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

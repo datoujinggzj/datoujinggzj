@@ -27,9 +27,7 @@
 
 ## Find Me 联系鲸鲸💕
 
-<div align=center>
-<img src="https://user-images.githubusercontent.com/48869455/164614206-270e6501-ebf0-43ed-bd49-b8e443cdcc19.png" style="zoom: 30%;" />
-</div>
+<iframe width="965" height="419" src="https://www.youtube.com/embed/Yb12pdEpTeI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <!---
 datoujinggzj/datoujinggzj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -14,11 +14,11 @@
   - Github: https://github.com/datoujinggzj
 - 👨‍🏫 StudyWhale(鲸析) Data Science Crash Course 🆓: 👉 https://zg104.github.io/DSCrashCourse 🔥🔥🔥
 - 📫 How to reach me
-  - Email:  👉 2328247224@qq.com
-  - YouTube: 👉 https://www.youtube.com/channel/UCgieDnZI7JWiZsGpKrhDMgg
-  - bilibili: 👉 https://space.bilibili.com/497463853
-  - Website:  👉 https://zg104.github.io/
-  - LinkedIn: 👉 https://www.linkedin.com/in/zg104
+  - **Email**:  👉 2328247224@qq.com
+  - **YouTube**: 👉 https://www.youtube.com/channel/UCgieDnZI7JWiZsGpKrhDMgg
+  - **bilibili**: 👉 https://space.bilibili.com/497463853
+  - **Website**:  👉 https://zg104.github.io/
+  - **LinkedIn**: 👉 https://www.linkedin.com/in/zg104
 
 ## Personal Website: StudyWhale 鲸析 👉 https://zg104.github.io/
 
